@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mmerttas
-- 👀 I’m interested in Embedded Systems and Machine Learning
-- 🌱 I’m currently learning C/C++ and Python 
+- 👀 I’m interested in Digital System Design and AI
 - 📫 How to reach me www.linkedin.com/in/mert-tas
 
 <!---
